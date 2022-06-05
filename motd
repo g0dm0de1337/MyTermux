@@ -1,0 +1,15 @@
+
+Welcome to Hackconsole!
+
+Communities: https://termux.org/community
+GitHub link: https://github.com/g0dm0de1337
+
+ * bash ch.sh <--- CamHack
+
+Läuft mit Paketen:
+
+ * Pakete suchen:         pkg search <Paket>
+ * Installiere ein Paket: pkg install <Paket>
+ * Upgrade/Update Pakete: pkg up
+
+
